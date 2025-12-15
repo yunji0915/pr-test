@@ -5,5 +5,4 @@
 Thursday
 Friday
 Saturday
-Sunday
-
+일요일
